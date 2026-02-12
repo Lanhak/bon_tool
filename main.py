@@ -219,7 +219,7 @@ if chon == '5.7' :
 if chon == '6.1' :  
     exec(requests.get('https://raw.githubusercontent.com/lanhak/golike_tiktok/main/tiktok.py').text)
 if chon == '6.2' :
-    exec(requests.get('https://raw.githubusercontent.com/lanhak/Golike-ig/main/ig.py').text)
+    exec(requests.get('https://raw.githubusercontent.com/lanhak/Golike_ig/main/ig.py').text)
 if chon == '6.3' :
      exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Golike-Twitter-/main/p.py').text)
      #tool idol khác 
