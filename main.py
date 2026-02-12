@@ -140,7 +140,7 @@ print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36
 print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.3\033[1;31m] \033[1;32mTool Rút Gọn Link ")
 print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.4\033[1;31m] \033[1;32mGet Phản Hồi Từ Link")
 print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.5\033[1;31m] \033[1;32mLọc Link Từ File")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.6\033[1;31m] \033[1;32mTOOL REG ACC FACEBOOK")
+print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.6\033[1;31m] \033[1;32mTOOL REG ACC FACEBOOK(ADB)")
 
 print("\033[1;31m────────────────────────────────────────────────────────────")
 print (Colorate.Diagonal(Colors.blue_to_purple, "╔════════════════╗"))
@@ -249,7 +249,7 @@ if chon == '8.4' :
 if chon == '8.5' :
 	exec(requests.get('https://raw.githubusercontent.com/Khanh23047/L-c-Link-T-File/main/10.py').text)
 if chon == '8.6' :
-  exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Reg-fb/main/10.py').text)
+  exec(requests.get('https://raw.githubusercontent.com/lanhak/Reg_acc_fb/main/key.py').text)
   #tool tiện ích 
 if chon == '9.1' :   
    exec(requests.get('https://raw.githubusercontent.com/Khanh23047/May-tinh/main/0.py').text)
