@@ -158,15 +158,15 @@ if chon == '00' :
     exec(requests.get('https://raw.githubusercontent.com/Khanh23047/thoattool/main/.github/workflows/main.yml').text)
     #tool tđs
 if chon == '1.1' :
-    exec(requests.get('https://raw.githubusercontent.com/Khanh23047/TDS-TIKTOK-V1/main/tool.py').text)
+    exec(requests.get('https://raw.githubusercontent.com/lanhak/tds_TIKTOKV1-2/main/tiktokv1.py').text)
 if chon == '1.2':
-    exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Tdstikv2/main/00.py').text)
+    exec(requests.get('https://raw.githubusercontent.com/lanhak/Tds_titokv1-2/main/tiktokv2.py').text)
 if chon == '1.3' :
     exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Tik-tiknow/main/1.py').text) 
 if chon == '1.4' :
-    exec(requests.get('https://raw.githubusercontent.com/Khanh23047/TDS-IG/main/3.py').text) 
+    exec(requests.get('https://raw.githubusercontent.com/lanhak/TDS_tiktokv1-2/main/ig.py').text) 
 elif chon == '1.5' : 
- exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Mktds/main/4.py').text) 
+ exec(requests.get('https://raw.githubusercontent.com/lanhak/Mktds/main/doimk.py').text) 
  #tool spam sms
 if chon == '2.1' :
     exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Spamsmsv1/main/sms.py').text)
