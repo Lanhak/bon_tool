@@ -120,33 +120,21 @@ print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36
 print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m6.3\033[1;31m] \033[1;32mTool Auto Twitter")
 
 print("\033[1;31m────────────────────────────────────────────────────────────")
-print (Colorate.Diagonal(Colors.blue_to_purple, "╔═════════════════════════╗"))
-print (Colorate.Diagonal(Colors.blue_to_purple, "║Tool Của Các Idol Khác   ║"))
-print (Colorate.Diagonal(Colors.blue_to_purple, "╚═════════════════════════╝"))
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.1\033[1;31m] \033[1;32mTOOL VLONG ZZ")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.2\033[1;31m] \033[1;32mTOOL TRỊNH HƯỚNG")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.3\033[1;31m] \033[1;32mTOOL MEOWMEOW")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.4\033[1;31m] \033[1;32mTOOL HDT-TOOL")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.5\033[1;31m] \033[1;32mTOOL LKZ TOOL")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.6\033[1;31m] \033[1;32mTOOL JIRAY TOOL")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.7\033[1;31m] \033[1;32mTOOL BETA TOOL")
-
-print("\033[1;31m────────────────────────────────────────────────────────────")
 print (Colorate.Diagonal(Colors.blue_to_purple, "╔════════════════╗"))
 print (Colorate.Diagonal(Colors.blue_to_purple, "║Tool Tiện ích   ║"))
 print (Colorate.Diagonal(Colors.blue_to_purple, "╚════════════════╝"))
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.1\033[1;31m] \033[1;32mTOOL DOSS WEB VIP")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.2\033[1;31m] \033[1;32mTOOL REG PAGR PRO5")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.3\033[1;31m] \033[1;32mTool Rút Gọn Link ")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.4\033[1;31m] \033[1;32mGet Phản Hồi Từ Link")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.5\033[1;31m] \033[1;32mLọc Link Từ File")
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.6\033[1;31m] \033[1;32mTOOL REG ACC FACEBOOK(ADB)")
+print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.1\033[1;31m] \033[1;32mTOOL DOSS WEB VIP")
+print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.2\033[1;31m] \033[1;32mTOOL REG PAGR PRO5")
+print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.3\033[1;31m] \033[1;32mTool Rút Gọn Link ")
+print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.4\033[1;31m] \033[1;32mGet Phản Hồi Từ Link")
+print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.5\033[1;31m] \033[1;32mLọc Link Từ File")
+print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m7.6\033[1;31m] \033[1;32mTOOL REG ACC FACEBOOK(ADB)")
 
 print("\033[1;31m────────────────────────────────────────────────────────────")
 print (Colorate.Diagonal(Colors.blue_to_purple, "╔════════════════╗"))
 print (Colorate.Diagonal(Colors.blue_to_purple, "║Tool New Update ║"))
 print (Colorate.Diagonal(Colors.blue_to_purple, "╚════════════════╝"))
-print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m9.1\033[1;31m] \033[1;32mTool máy tính")
+print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m8.1\033[1;31m] \033[1;32mTool máy tính")
 print("\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;31m[\033[1;33m00\033[1;31m] \033[1;32mTHOÁT TOOL")
 
 print("\033[1;31m────────────────────────────────────────────────────────────")
@@ -222,36 +210,21 @@ if chon == '6.2' :
     exec(requests.get('https://raw.githubusercontent.com/lanhak/Golike_ig/main/ig.py').text)
 if chon == '6.3' :
      exec(requests.get('https://raw.githubusercontent.com/lanhak/Golike_x/main/x.py').text)
-     #tool idol khác 
+         #tool tiện ích
 if chon == '7.1' :
-    exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Tool-vlong/main/p.py').text)
-if chon == '7.2' :
-    exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Tool-trinh-huong/main/huong.py').text)
-if chon == '7.3' :
-	exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Full-mail/main/vietcode_toolmeow.py').text)
-if chon == '7.4' :
-  exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Tool-hdt/main/p.py').text)
-if chon == '7.5' :   
-   exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Tool-lkz/main/p.py').text)
-if chon == '7.6' :  
-    exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Tool-jray/main/haha.py').text)
-if chon == '7.7' :  
-    exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Beta-tool/main/beta.py').text)
-    #tool tiện ích
-if chon == '8.1' :
     exec(requests.get('https://raw.githubusercontent.com/Khanh23047/DOSS-WEB/main/dos.py').text)
-if chon == '8.2' :
+if chon == '7.2' :
      exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Reg-pro5-vip/main/reg.py').text)
-if chon == '8.3' :
+if chon == '7.3' :
     exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Rutgonlink/main/10.py').text)
-if chon == '8.4' :
+if chon == '7.4' :
     exec(requests.get('https://raw.githubusercontent.com/Khanh23047/Phanhoilink/main/10.py').text)
-if chon == '8.5' :
+if chon == '7.5' :
 	exec(requests.get('https://raw.githubusercontent.com/Khanh23047/L-c-Link-T-File/main/10.py').text)
-if chon == '8.6' :
+if chon == '7.6' :
   exec(requests.get('https://raw.githubusercontent.com/lanhak/Reg_fb/main/regacc.py').text)
   #tool tiện ích 
-if chon == '9.1' :   
+if chon == '8.1' :   
    exec(requests.get('https://raw.githubusercontent.com/Khanh23047/May-tinh/main/0.py').text)
 else :
      exit()
